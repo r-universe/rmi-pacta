@@ -63,3 +63,8 @@
 	url = https://github.com/2DegreesInvesting/pacta.portfolio.analysis
 	shallow = true
 	registered = true
+[submodule "janitor"]
+	path = janitor
+	url = https://github.com/sfirke/janitor
+	shallow = true
+	registered = false
