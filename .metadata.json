@@ -15,11 +15,11 @@
   },
   {
     "package": "r2dii.analysis",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "r2dii.match",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "r2dii.physical.risk"
