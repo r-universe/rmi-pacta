@@ -12,6 +12,12 @@
     "from": "r2dii.utils"
   },
   {
+    "package": "r2dii.colours",
+    "url": "https://github.com/RMI-PACTA/r2dii.colours",
+    "via": ["pacta.executive.summary"],
+    "from": "pacta.executive.summary"
+  },
+  {
     "package": "r2dii.utils",
     "url": "https://github.com/2DegreesInvesting/r2dii.utils",
     "via": ["r2dii.physical.risk"],
