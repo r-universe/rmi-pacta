@@ -1,25 +1,37 @@
 [
   {
+    "package": "pacta.data.preparation"
+  },
+  {
+    "package": "pacta.portfolio.import"
+  },
+  {
+    "package": "pacta.portfolio.analysis"
+  },
+  {
+    "package": "pacta.interactive.report"
+  },
+  {
+    "package": "pacta.executive.summary"
+  },
+  {
     "package": "r2dii.interactive"
   },
   {
     "package": "r2dii.data",
-    "oncran": false
-  },
-  {
-    "package": "r2dii.plot",
     "oncran": true
   },
   {
-    "package": "r2dii.climate.stress.test"
+    "package": "r2dii.plot",
+    "oncran": false
   },
   {
     "package": "r2dii.analysis",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "r2dii.match",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "r2dii.physical.risk"
@@ -32,11 +44,5 @@
   },
   {
     "package": "r2dii.banks"
-  },
-  {
-    "package": "pacta.data.preparation"
-  },
-  {
-    "package": "pacta.portfolio.analysis"
   }
 ]

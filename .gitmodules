@@ -3,64 +3,74 @@
 	url = https://github.com/rmi-pacta/universe
 	shallow = true
 	branch = HEAD
+[submodule "pacta.data.preparation"]
+	path = pacta.data.preparation
+	url = https://github.com/rmi-pacta/pacta.data.preparation
+	shallow = true
+	registered = true
+[submodule "pacta.portfolio.import"]
+	path = pacta.portfolio.import
+	url = https://github.com/rmi-pacta/pacta.portfolio.import
+	shallow = true
+	registered = true
+[submodule "pacta.portfolio.analysis"]
+	path = pacta.portfolio.analysis
+	url = https://github.com/rmi-pacta/pacta.portfolio.analysis
+	shallow = true
+	registered = true
+[submodule "pacta.interactive.report"]
+	path = pacta.interactive.report
+	url = https://github.com/rmi-pacta/pacta.interactive.report
+	shallow = true
+	registered = true
+[submodule "pacta.executive.summary"]
+	path = pacta.executive.summary
+	url = https://github.com/rmi-pacta/pacta.executive.summary
+	shallow = true
+	registered = true
 [submodule "r2dii.interactive"]
 	path = r2dii.interactive
-	url = https://github.com/2DegreesInvesting/r2dii.interactive
+	url = https://github.com/rmi-pacta/r2dii.interactive
 	shallow = true
 	registered = true
 [submodule "r2dii.data"]
 	path = r2dii.data
-	url = https://github.com/2DegreesInvesting/r2dii.data
+	url = https://github.com/rmi-pacta/r2dii.data
 	shallow = true
 	registered = true
 [submodule "r2dii.plot"]
 	path = r2dii.plot
-	url = https://github.com/2DegreesInvesting/r2dii.plot
-	shallow = true
-	registered = true
-[submodule "r2dii.climate.stress.test"]
-	path = r2dii.climate.stress.test
-	url = https://github.com/2DegreesInvesting/r2dii.climate.stress.test
+	url = https://github.com/rmi-pacta/r2dii.plot
 	shallow = true
 	registered = true
 [submodule "r2dii.analysis"]
 	path = r2dii.analysis
-	url = https://github.com/2DegreesInvesting/r2dii.analysis
+	url = https://github.com/rmi-pacta/r2dii.analysis
 	shallow = true
 	registered = true
 [submodule "r2dii.match"]
 	path = r2dii.match
-	url = https://github.com/2DegreesInvesting/r2dii.match
+	url = https://github.com/rmi-pacta/r2dii.match
 	shallow = true
 	registered = true
 [submodule "r2dii.physical.risk"]
 	path = r2dii.physical.risk
-	url = https://github.com/2DegreesInvesting/r2dii.physical.risk
+	url = https://github.com/rmi-pacta/r2dii.physical.risk
 	shallow = true
 	registered = true
 [submodule "r2dii.colours"]
 	path = r2dii.colours
-	url = https://github.com/2DegreesInvesting/r2dii.colours
+	url = https://github.com/rmi-pacta/r2dii.colours
 	shallow = true
 	registered = true
 [submodule "r2dii.utils"]
 	path = r2dii.utils
-	url = https://github.com/2DegreesInvesting/r2dii.utils
+	url = https://github.com/rmi-pacta/r2dii.utils
 	shallow = true
 	registered = true
 [submodule "r2dii.banks"]
 	path = r2dii.banks
 	url = https://github.com/2DegreesInvesting/r2dii.banks
-	shallow = true
-	registered = true
-[submodule "pacta.data.preparation"]
-	path = pacta.data.preparation
-	url = https://github.com/2DegreesInvesting/pacta.data.preparation
-	shallow = true
-	registered = true
-[submodule "pacta.portfolio.analysis"]
-	path = pacta.portfolio.analysis
-	url = https://github.com/2DegreesInvesting/pacta.portfolio.analysis
 	shallow = true
 	registered = true
 [submodule "janitor"]
