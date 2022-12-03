@@ -1,5 +1,8 @@
 [
   {
+    "package": "pacta.scenario.preparation"
+  },
+  {
     "package": "pacta.data.preparation"
   },
   {
