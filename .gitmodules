@@ -33,9 +33,9 @@
 	url = https://github.com/rmi-pacta/pacta.executive.summary
 	shallow = true
 	registered = true
-[submodule "r2dii.interactive"]
-	path = r2dii.interactive
-	url = https://github.com/rmi-pacta/r2dii.interactive
+[submodule "pacta.interactive.plot"]
+	path = pacta.interactive.plot
+	url = https://github.com/rmi-pacta/pacta.interactive.plot
 	shallow = true
 	registered = true
 [submodule "r2dii.data"]

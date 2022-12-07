@@ -18,7 +18,7 @@
     "package": "pacta.executive.summary"
   },
   {
-    "package": "r2dii.interactive"
+    "package": "pacta.interactive.plot"
   },
   {
     "package": "r2dii.data",
