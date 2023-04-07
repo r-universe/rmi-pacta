@@ -8,6 +8,11 @@
 	url = https://github.com/rmi-pacta/pacta.scenario.preparation
 	shallow = true
 	registered = true
+[submodule "pacta.data.scraping"]
+	path = pacta.data.scraping
+	url = https://github.com/rmi-pacta/pacta.data.scraping
+	shallow = true
+	registered = true
 [submodule "pacta.data.preparation"]
 	path = pacta.data.preparation
 	url = https://github.com/rmi-pacta/pacta.data.preparation
