@@ -48,9 +48,9 @@
 	url = https://github.com/rmi-pacta/pacta.interactive.plot
 	shallow = true
 	registered = true
-[submodule "pacta.supervisor.analysis"]
-	path = pacta.supervisor.analysis
-	url = https://github.com/rmi-pacta/pacta.supervisor.analysis
+[submodule "pacta.aggregate.loanbook.plots"]
+	path = pacta.aggregate.loanbook.plots
+	url = https://github.com/rmi-pacta/pacta.aggregate.loanbook.plots
 	shallow = true
 	registered = true
 [submodule "pacta.loanbook.addons"]
