@@ -23,6 +23,11 @@
 	url = https://github.com/rmi-pacta/pacta.data.validation
 	shallow = true
 	registered = true
+[submodule "pacta.portfolio.utils"]
+	path = pacta.portfolio.utils
+	url = https://github.com/rmi-pacta/pacta.portfolio.utils
+	shallow = true
+	registered = true
 [submodule "pacta.portfolio.import"]
 	path = pacta.portfolio.import
 	url = https://github.com/rmi-pacta/pacta.portfolio.import
