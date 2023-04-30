@@ -1,5 +1,11 @@
 [
   {
+    "package": "dbplyr",
+    "url": "https://github.com/tidyverse/dbplyr",
+    "via": ["pacta.portfolio.utils"],
+    "from": "pacta.portfolio.utils"
+  },
+  {
     "package": "janitor",
     "url": "https://github.com/sfirke/janitor",
     "via": ["r2dii.physical.risk", "r2dii.utils"],
@@ -10,6 +16,12 @@
     "url": "https://github.com/sfirke/janitor",
     "via": ["r2dii.utils"],
     "from": "r2dii.utils"
+  },
+  {
+    "package": "pacta.portfolio.import",
+    "url": "https://github.com/RMI-PACTA/pacta.portfolio.import",
+    "via": ["pacta.portfolio.utils"],
+    "from": "pacta.portfolio.utils"
   },
   {
     "package": "r2dii.colours",

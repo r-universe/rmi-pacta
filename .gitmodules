@@ -103,6 +103,11 @@
 	url = https://github.com/2DegreesInvesting/r2dii.banks
 	shallow = true
 	registered = true
+[submodule "dbplyr"]
+	path = dbplyr
+	url = https://github.com/tidyverse/dbplyr
+	shallow = true
+	registered = false
 [submodule "janitor"]
 	path = janitor
 	url = https://github.com/sfirke/janitor
