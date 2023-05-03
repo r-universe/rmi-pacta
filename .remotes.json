@@ -12,10 +12,28 @@
     "from": "r2dii.utils"
   },
   {
+    "package": "pacta.data.validation",
+    "url": "https://github.com/RMI-PACTA/pacta.data.validation",
+    "via": ["pactaverse"],
+    "from": "pactaverse"
+  },
+  {
+    "package": "pacta.executive.summary",
+    "url": "https://github.com/RMI-PACTA/pacta.executive.summary",
+    "via": ["pactaverse"],
+    "from": "pactaverse"
+  },
+  {
     "package": "pacta.portfolio.import",
     "url": "https://github.com/RMI-PACTA/pacta.portfolio.import",
     "via": ["pacta.portfolio.audit"],
     "from": "pacta.portfolio.audit"
+  },
+  {
+    "package": "pacta.portfolio.import",
+    "url": "https://github.com/RMI-PACTA/pacta.portfolio.import",
+    "via": ["pactaverse"],
+    "from": "pactaverse"
   },
   {
     "package": "pacta.portfolio.utils",
@@ -24,10 +42,22 @@
     "from": "pacta.portfolio.audit"
   },
   {
+    "package": "pacta.portfolio.utils",
+    "url": "https://github.com/RMI-PACTA/pacta.portfolio.utils",
+    "via": ["pactaverse"],
+    "from": "pactaverse"
+  },
+  {
     "package": "r2dii.colours",
     "url": "https://github.com/RMI-PACTA/r2dii.colours",
     "via": ["pacta.executive.summary"],
     "from": "pacta.executive.summary"
+  },
+  {
+    "package": "r2dii.colours",
+    "url": "https://github.com/RMI-PACTA/r2dii.colours",
+    "via": ["pactaverse", "pacta.executive.summary"],
+    "from": "pactaverse"
   },
   {
     "package": "r2dii.utils",
