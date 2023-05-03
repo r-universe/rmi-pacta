@@ -33,6 +33,11 @@
 	url = https://github.com/rmi-pacta/pacta.portfolio.import
 	shallow = true
 	registered = true
+[submodule "pacta.portfolio.audit"]
+	path = pacta.portfolio.audit
+	url = https://github.com/rmi-pacta/pacta.portfolio.audit
+	shallow = true
+	registered = true
 [submodule "pacta.portfolio.analysis"]
 	path = pacta.portfolio.analysis
 	url = https://github.com/rmi-pacta/pacta.portfolio.analysis
