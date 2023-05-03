@@ -2,6 +2,12 @@
   {
     "package": "dbplyr",
     "url": "https://github.com/tidyverse/dbplyr",
+    "via": ["pacta.portfolio.allocate"],
+    "from": "pacta.portfolio.allocate"
+  },
+  {
+    "package": "dbplyr",
+    "url": "https://github.com/tidyverse/dbplyr",
     "via": ["pactaverse", "pacta.portfolio.allocate"],
     "from": "pactaverse"
   },
@@ -64,6 +70,12 @@
     "url": "https://github.com/RMI-PACTA/pacta.portfolio.import",
     "via": ["pactaverse"],
     "from": "pactaverse"
+  },
+  {
+    "package": "pacta.portfolio.utils",
+    "url": "https://github.com/RMI-PACTA/pacta.portfolio.utils",
+    "via": ["pacta.portfolio.allocate"],
+    "from": "pacta.portfolio.allocate"
   },
   {
     "package": "pacta.portfolio.utils",
