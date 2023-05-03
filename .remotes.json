@@ -1,5 +1,11 @@
 [
   {
+    "package": "dbplyr",
+    "url": "https://github.com/tidyverse/dbplyr",
+    "via": ["pactaverse", "pacta.portfolio.allocate"],
+    "from": "pactaverse"
+  },
+  {
     "package": "janitor",
     "url": "https://github.com/sfirke/janitor",
     "via": ["r2dii.physical.risk", "r2dii.utils"],
@@ -12,6 +18,12 @@
     "from": "r2dii.utils"
   },
   {
+    "package": "pacta.data.scraping",
+    "url": "https://github.com/RMI-PACTA/pacta.data.scraping",
+    "via": ["pactaverse"],
+    "from": "pactaverse"
+  },
+  {
     "package": "pacta.data.validation",
     "url": "https://github.com/RMI-PACTA/pacta.data.validation",
     "via": ["pactaverse"],
@@ -20,6 +32,12 @@
   {
     "package": "pacta.executive.summary",
     "url": "https://github.com/RMI-PACTA/pacta.executive.summary",
+    "via": ["pactaverse"],
+    "from": "pactaverse"
+  },
+  {
+    "package": "pacta.portfolio.allocate",
+    "url": "https://github.com/RMI-PACTA/pacta.portfolio.allocate",
     "via": ["pactaverse"],
     "from": "pactaverse"
   },
@@ -38,13 +56,13 @@
   {
     "package": "pacta.portfolio.import",
     "url": "https://github.com/RMI-PACTA/pacta.portfolio.import",
-    "via": ["pactaverse"],
+    "via": ["pactaverse", "pacta.portfolio.audit"],
     "from": "pactaverse"
   },
   {
     "package": "pacta.portfolio.import",
     "url": "https://github.com/RMI-PACTA/pacta.portfolio.import",
-    "via": ["pactaverse", "pacta.portfolio.audit"],
+    "via": ["pactaverse"],
     "from": "pactaverse"
   },
   {
@@ -56,13 +74,19 @@
   {
     "package": "pacta.portfolio.utils",
     "url": "https://github.com/RMI-PACTA/pacta.portfolio.utils",
-    "via": ["pactaverse"],
+    "via": ["pactaverse", "pacta.portfolio.allocate"],
     "from": "pactaverse"
   },
   {
     "package": "pacta.portfolio.utils",
     "url": "https://github.com/RMI-PACTA/pacta.portfolio.utils",
     "via": ["pactaverse", "pacta.portfolio.audit"],
+    "from": "pactaverse"
+  },
+  {
+    "package": "pacta.portfolio.utils",
+    "url": "https://github.com/RMI-PACTA/pacta.portfolio.utils",
+    "via": ["pactaverse"],
     "from": "pactaverse"
   },
   {
