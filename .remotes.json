@@ -78,6 +78,12 @@
     "from": "pactaverse"
   },
   {
+    "package": "pacta.portfolio.report",
+    "url": "https://github.com/RMI-PACTA/pacta.portfolio.report",
+    "via": ["pactaverse"],
+    "from": "pactaverse"
+  },
+  {
     "package": "pacta.portfolio.utils",
     "url": "https://github.com/RMI-PACTA/pacta.portfolio.utils",
     "via": ["pacta.portfolio.allocate"],
