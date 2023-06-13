@@ -53,9 +53,9 @@
 	url = https://github.com/rmi-pacta/pacta.portfolio.analysis
 	shallow = true
 	registered = true
-[submodule "pacta.interactive.report"]
-	path = pacta.interactive.report
-	url = https://github.com/rmi-pacta/pacta.interactive.report
+[submodule "pacta.portfolio.report"]
+	path = pacta.portfolio.report
+	url = https://github.com/rmi-pacta/pacta.portfolio.report
 	shallow = true
 	registered = true
 [submodule "pacta.executive.summary"]
