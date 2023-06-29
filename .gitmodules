@@ -1,130 +1,81 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/rmi-pacta/universe
-	shallow = true
 	branch = HEAD
 [submodule "pactaverse"]
 	path = pactaverse
 	url = https://github.com/rmi-pacta/pactaverse
-	shallow = true
-	registered = true
 [submodule "pacta.scenario.preparation"]
 	path = pacta.scenario.preparation
 	url = https://github.com/rmi-pacta/pacta.scenario.preparation
-	shallow = true
-	registered = true
 [submodule "pacta.data.scraping"]
 	path = pacta.data.scraping
 	url = https://github.com/rmi-pacta/pacta.data.scraping
-	shallow = true
-	registered = true
 [submodule "pacta.data.preparation"]
 	path = pacta.data.preparation
 	url = https://github.com/rmi-pacta/pacta.data.preparation
-	shallow = true
-	registered = true
 [submodule "pacta.data.validation"]
 	path = pacta.data.validation
 	url = https://github.com/rmi-pacta/pacta.data.validation
-	shallow = true
-	registered = true
 [submodule "pacta.portfolio.allocate"]
 	path = pacta.portfolio.allocate
 	url = https://github.com/rmi-pacta/pacta.portfolio.allocate
-	shallow = true
-	registered = true
 [submodule "pacta.portfolio.utils"]
 	path = pacta.portfolio.utils
 	url = https://github.com/rmi-pacta/pacta.portfolio.utils
-	shallow = true
-	registered = true
 [submodule "pacta.portfolio.import"]
 	path = pacta.portfolio.import
 	url = https://github.com/rmi-pacta/pacta.portfolio.import
-	shallow = true
-	registered = true
 [submodule "pacta.portfolio.audit"]
 	path = pacta.portfolio.audit
 	url = https://github.com/rmi-pacta/pacta.portfolio.audit
-	shallow = true
-	registered = true
 [submodule "pacta.portfolio.analysis"]
 	path = pacta.portfolio.analysis
 	url = https://github.com/rmi-pacta/pacta.portfolio.analysis
-	shallow = true
-	registered = true
 [submodule "pacta.portfolio.report"]
 	path = pacta.portfolio.report
 	url = https://github.com/rmi-pacta/pacta.portfolio.report
-	shallow = true
-	registered = true
 [submodule "pacta.executive.summary"]
 	path = pacta.executive.summary
 	url = https://github.com/rmi-pacta/pacta.executive.summary
-	shallow = true
-	registered = true
 [submodule "pacta.interactive.plot"]
 	path = pacta.interactive.plot
 	url = https://github.com/rmi-pacta/pacta.interactive.plot
-	shallow = true
-	registered = true
 [submodule "pacta.aggregate.loanbook.plots"]
 	path = pacta.aggregate.loanbook.plots
 	url = https://github.com/rmi-pacta/pacta.aggregate.loanbook.plots
-	shallow = true
-	registered = true
 [submodule "pacta.loanbook.addons"]
 	path = pacta.loanbook.addons
 	url = https://github.com/rmi-pacta/pacta.loanbook.addons
-	shallow = true
-	registered = true
 [submodule "r2dii.data"]
 	path = r2dii.data
 	url = https://github.com/rmi-pacta/r2dii.data
-	shallow = true
-	registered = true
 [submodule "r2dii.plot"]
 	path = r2dii.plot
 	url = https://github.com/rmi-pacta/r2dii.plot
-	shallow = true
-	registered = true
 [submodule "r2dii.analysis"]
 	path = r2dii.analysis
 	url = https://github.com/rmi-pacta/r2dii.analysis
-	shallow = true
-	registered = true
 [submodule "r2dii.match"]
 	path = r2dii.match
 	url = https://github.com/rmi-pacta/r2dii.match
-	shallow = true
-	registered = true
 [submodule "r2dii.physical.risk"]
 	path = r2dii.physical.risk
 	url = https://github.com/rmi-pacta/r2dii.physical.risk
-	shallow = true
-	registered = true
 [submodule "r2dii.colours"]
 	path = r2dii.colours
 	url = https://github.com/rmi-pacta/r2dii.colours
-	shallow = true
-	registered = true
 [submodule "r2dii.utils"]
 	path = r2dii.utils
 	url = https://github.com/rmi-pacta/r2dii.utils
-	shallow = true
-	registered = true
 [submodule "r2dii.banks"]
 	path = r2dii.banks
 	url = https://github.com/2DegreesInvesting/r2dii.banks
-	shallow = true
-	registered = true
 [submodule "dbplyr"]
 	path = dbplyr
 	url = https://github.com/tidyverse/dbplyr
-	shallow = true
 	registered = false
 [submodule "janitor"]
 	path = janitor
 	url = https://github.com/sfirke/janitor
-	shallow = true
 	registered = false
