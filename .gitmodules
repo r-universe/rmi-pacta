@@ -2,75 +2,6 @@
 	path = .registry
 	url = https://github.com/rmi-pacta/universe
 	branch = HEAD
-[submodule "pactaverse"]
-	path = pactaverse
-	url = https://github.com/rmi-pacta/pactaverse
-[submodule "pacta.scenario.preparation"]
-	path = pacta.scenario.preparation
-	url = https://github.com/rmi-pacta/pacta.scenario.preparation
-[submodule "pacta.data.scraping"]
-	path = pacta.data.scraping
-	url = https://github.com/rmi-pacta/pacta.data.scraping
-[submodule "pacta.data.preparation"]
-	path = pacta.data.preparation
-	url = https://github.com/rmi-pacta/pacta.data.preparation
-[submodule "pacta.data.validation"]
-	path = pacta.data.validation
-	url = https://github.com/rmi-pacta/pacta.data.validation
-[submodule "pacta.portfolio.allocate"]
-	path = pacta.portfolio.allocate
-	url = https://github.com/rmi-pacta/pacta.portfolio.allocate
-[submodule "pacta.portfolio.utils"]
-	path = pacta.portfolio.utils
-	url = https://github.com/rmi-pacta/pacta.portfolio.utils
-[submodule "pacta.portfolio.import"]
-	path = pacta.portfolio.import
-	url = https://github.com/rmi-pacta/pacta.portfolio.import
-[submodule "pacta.portfolio.audit"]
-	path = pacta.portfolio.audit
-	url = https://github.com/rmi-pacta/pacta.portfolio.audit
-[submodule "pacta.portfolio.analysis"]
-	path = pacta.portfolio.analysis
-	url = https://github.com/rmi-pacta/pacta.portfolio.analysis
-[submodule "pacta.portfolio.report"]
-	path = pacta.portfolio.report
-	url = https://github.com/rmi-pacta/pacta.portfolio.report
-[submodule "pacta.executive.summary"]
-	path = pacta.executive.summary
-	url = https://github.com/rmi-pacta/pacta.executive.summary
-[submodule "pacta.interactive.plot"]
-	path = pacta.interactive.plot
-	url = https://github.com/rmi-pacta/pacta.interactive.plot
-[submodule "pacta.aggregate.loanbook.plots"]
-	path = pacta.aggregate.loanbook.plots
-	url = https://github.com/rmi-pacta/pacta.aggregate.loanbook.plots
-[submodule "pacta.loanbook.addons"]
-	path = pacta.loanbook.addons
-	url = https://github.com/rmi-pacta/pacta.loanbook.addons
-[submodule "r2dii.data"]
-	path = r2dii.data
-	url = https://github.com/rmi-pacta/r2dii.data
-[submodule "r2dii.plot"]
-	path = r2dii.plot
-	url = https://github.com/rmi-pacta/r2dii.plot
-[submodule "r2dii.analysis"]
-	path = r2dii.analysis
-	url = https://github.com/rmi-pacta/r2dii.analysis
-[submodule "r2dii.match"]
-	path = r2dii.match
-	url = https://github.com/rmi-pacta/r2dii.match
-[submodule "r2dii.physical.risk"]
-	path = r2dii.physical.risk
-	url = https://github.com/rmi-pacta/r2dii.physical.risk
-[submodule "r2dii.colours"]
-	path = r2dii.colours
-	url = https://github.com/rmi-pacta/r2dii.colours
-[submodule "r2dii.utils"]
-	path = r2dii.utils
-	url = https://github.com/rmi-pacta/r2dii.utils
-[submodule "r2dii.banks"]
-	path = r2dii.banks
-	url = https://github.com/2DegreesInvesting/r2dii.banks
 [submodule "dbplyr"]
 	path = dbplyr
 	url = https://github.com/tidyverse/dbplyr
@@ -79,3 +10,72 @@
 	path = janitor
 	url = https://github.com/sfirke/janitor
 	registered = false
+[submodule "pacta.aggregate.loanbook.plots"]
+	path = pacta.aggregate.loanbook.plots
+	url = https://github.com/rmi-pacta/pacta.aggregate.loanbook.plots
+[submodule "pacta.data.preparation"]
+	path = pacta.data.preparation
+	url = https://github.com/rmi-pacta/pacta.data.preparation
+[submodule "pacta.data.scraping"]
+	path = pacta.data.scraping
+	url = https://github.com/rmi-pacta/pacta.data.scraping
+[submodule "pacta.data.validation"]
+	path = pacta.data.validation
+	url = https://github.com/rmi-pacta/pacta.data.validation
+[submodule "pacta.executive.summary"]
+	path = pacta.executive.summary
+	url = https://github.com/rmi-pacta/pacta.executive.summary
+[submodule "pacta.interactive.plot"]
+	path = pacta.interactive.plot
+	url = https://github.com/rmi-pacta/pacta.interactive.plot
+[submodule "pacta.loanbook.addons"]
+	path = pacta.loanbook.addons
+	url = https://github.com/rmi-pacta/pacta.loanbook.addons
+[submodule "pacta.portfolio.allocate"]
+	path = pacta.portfolio.allocate
+	url = https://github.com/rmi-pacta/pacta.portfolio.allocate
+[submodule "pacta.portfolio.analysis"]
+	path = pacta.portfolio.analysis
+	url = https://github.com/rmi-pacta/pacta.portfolio.analysis
+[submodule "pacta.portfolio.audit"]
+	path = pacta.portfolio.audit
+	url = https://github.com/rmi-pacta/pacta.portfolio.audit
+[submodule "pacta.portfolio.import"]
+	path = pacta.portfolio.import
+	url = https://github.com/rmi-pacta/pacta.portfolio.import
+[submodule "pacta.portfolio.report"]
+	path = pacta.portfolio.report
+	url = https://github.com/rmi-pacta/pacta.portfolio.report
+[submodule "pacta.portfolio.utils"]
+	path = pacta.portfolio.utils
+	url = https://github.com/rmi-pacta/pacta.portfolio.utils
+[submodule "pacta.scenario.preparation"]
+	path = pacta.scenario.preparation
+	url = https://github.com/rmi-pacta/pacta.scenario.preparation
+[submodule "pactaverse"]
+	path = pactaverse
+	url = https://github.com/rmi-pacta/pactaverse
+[submodule "r2dii.analysis"]
+	path = r2dii.analysis
+	url = https://github.com/rmi-pacta/r2dii.analysis
+[submodule "r2dii.banks"]
+	path = r2dii.banks
+	url = https://github.com/2DegreesInvesting/r2dii.banks
+[submodule "r2dii.colours"]
+	path = r2dii.colours
+	url = https://github.com/rmi-pacta/r2dii.colours
+[submodule "r2dii.data"]
+	path = r2dii.data
+	url = https://github.com/rmi-pacta/r2dii.data
+[submodule "r2dii.match"]
+	path = r2dii.match
+	url = https://github.com/rmi-pacta/r2dii.match
+[submodule "r2dii.physical.risk"]
+	path = r2dii.physical.risk
+	url = https://github.com/rmi-pacta/r2dii.physical.risk
+[submodule "r2dii.plot"]
+	path = r2dii.plot
+	url = https://github.com/rmi-pacta/r2dii.plot
+[submodule "r2dii.utils"]
+	path = r2dii.utils
+	url = https://github.com/rmi-pacta/r2dii.utils
