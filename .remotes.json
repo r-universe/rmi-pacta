@@ -72,12 +72,6 @@
     "from": "pactaverse"
   },
   {
-    "package": "pacta.portfolio.import",
-    "url": "https://github.com/RMI-PACTA/pacta.portfolio.import",
-    "via": ["pactaverse"],
-    "from": "pactaverse"
-  },
-  {
     "package": "pacta.portfolio.report",
     "url": "https://github.com/RMI-PACTA/pacta.portfolio.report",
     "via": ["pactaverse"],
@@ -99,18 +93,6 @@
     "package": "pacta.portfolio.utils",
     "url": "https://github.com/RMI-PACTA/pacta.portfolio.utils",
     "via": ["pactaverse", "pacta.portfolio.allocate"],
-    "from": "pactaverse"
-  },
-  {
-    "package": "pacta.portfolio.utils",
-    "url": "https://github.com/RMI-PACTA/pacta.portfolio.utils",
-    "via": ["pactaverse", "pacta.portfolio.audit"],
-    "from": "pactaverse"
-  },
-  {
-    "package": "pacta.portfolio.utils",
-    "url": "https://github.com/RMI-PACTA/pacta.portfolio.utils",
-    "via": ["pactaverse"],
     "from": "pactaverse"
   },
   {
