@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/rmi-pacta/universe
 	branch = HEAD
-[submodule "dbplyr"]
-	path = dbplyr
-	url = https://github.com/tidyverse/dbplyr
-	registered = false
 [submodule "janitor"]
 	path = janitor
 	url = https://github.com/sfirke/janitor
