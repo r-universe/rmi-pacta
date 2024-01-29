@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rmi-pacta/universe
+	url = https://github.com/rmi-pacta/rmi-pacta.r-universe.dev
 	branch = HEAD
 [submodule "janitor"]
 	path = janitor
