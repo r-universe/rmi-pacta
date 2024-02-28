@@ -24,9 +24,6 @@
 [submodule "pacta.interactive.plot"]
 	path = pacta.interactive.plot
 	url = https://github.com/rmi-pacta/pacta.interactive.plot
-[submodule "pacta.loanbook.addons"]
-	path = pacta.loanbook.addons
-	url = https://github.com/rmi-pacta/pacta.loanbook.addons
 [submodule "pacta.portfolio.allocate"]
 	path = pacta.portfolio.allocate
 	url = https://github.com/rmi-pacta/pacta.portfolio.allocate
