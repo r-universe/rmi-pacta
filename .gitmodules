@@ -27,9 +27,6 @@
 [submodule "pacta.portfolio.allocate"]
 	path = pacta.portfolio.allocate
 	url = https://github.com/rmi-pacta/pacta.portfolio.allocate
-[submodule "pacta.portfolio.analysis"]
-	path = pacta.portfolio.analysis
-	url = https://github.com/rmi-pacta/pacta.portfolio.analysis
 [submodule "pacta.portfolio.audit"]
 	path = pacta.portfolio.audit
 	url = https://github.com/rmi-pacta/pacta.portfolio.audit
@@ -51,9 +48,6 @@
 [submodule "r2dii.analysis"]
 	path = r2dii.analysis
 	url = https://github.com/rmi-pacta/r2dii.analysis
-[submodule "r2dii.banks"]
-	path = r2dii.banks
-	url = https://github.com/2DegreesInvesting/r2dii.banks
 [submodule "r2dii.colours"]
 	path = r2dii.colours
 	url = https://github.com/rmi-pacta/r2dii.colours
@@ -63,12 +57,10 @@
 [submodule "r2dii.match"]
 	path = r2dii.match
 	url = https://github.com/rmi-pacta/r2dii.match
-[submodule "r2dii.physical.risk"]
-	path = r2dii.physical.risk
-	url = https://github.com/rmi-pacta/r2dii.physical.risk
 [submodule "r2dii.plot"]
 	path = r2dii.plot
 	url = https://github.com/rmi-pacta/r2dii.plot
 [submodule "r2dii.utils"]
 	path = r2dii.utils
-	url = https://github.com/rmi-pacta/r2dii.utils
+	url = https://github.com/2DegreesInvesting/r2dii.utils
+	registered = false
