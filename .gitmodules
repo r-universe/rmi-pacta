@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/rmi-pacta/rmi-pacta.r-universe.dev
 	branch = HEAD
-[submodule "janitor"]
-	path = janitor
-	url = https://github.com/sfirke/janitor
-	registered = false
 [submodule "pacta.aggregate.loanbook.plots"]
 	path = pacta.aggregate.loanbook.plots
 	url = https://github.com/rmi-pacta/pacta.aggregate.loanbook.plots
@@ -60,7 +56,3 @@
 [submodule "r2dii.plot"]
 	path = r2dii.plot
 	url = https://github.com/rmi-pacta/r2dii.plot
-[submodule "r2dii.utils"]
-	path = r2dii.utils
-	url = https://github.com/2DegreesInvesting/r2dii.utils
-	registered = false

@@ -1,17 +1,5 @@
 [
   {
-    "package": "janitor",
-    "url": "https://github.com/sfirke/janitor",
-    "via": ["r2dii.physical.risk", "r2dii.utils"],
-    "from": "r2dii.physical.risk"
-  },
-  {
-    "package": "janitor",
-    "url": "https://github.com/sfirke/janitor",
-    "via": ["r2dii.utils"],
-    "from": "r2dii.utils"
-  },
-  {
     "package": "pacta.data.scraping",
     "url": "https://github.com/RMI-PACTA/pacta.data.scraping",
     "via": ["pactaverse"],
@@ -94,11 +82,5 @@
     "url": "https://github.com/RMI-PACTA/r2dii.colours",
     "via": ["pactaverse", "pacta.executive.summary"],
     "from": "pactaverse"
-  },
-  {
-    "package": "r2dii.utils",
-    "url": "https://github.com/2DegreesInvesting/r2dii.utils",
-    "via": ["r2dii.physical.risk"],
-    "from": "r2dii.physical.risk"
   }
 ]
