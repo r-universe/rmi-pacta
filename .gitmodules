@@ -32,6 +32,9 @@
 [submodule "pacta.portfolio.utils"]
 	path = pacta.portfolio.utils
 	url = https://github.com/rmi-pacta/pacta.portfolio.utils
+[submodule "pacta.scenario.data.preparation"]
+	path = pacta.scenario.data.preparation
+	url = https://github.com/rmi-pacta/pacta.scenario.data.preparation
 [submodule "pactaverse"]
 	path = pactaverse
 	url = https://github.com/rmi-pacta/pactaverse
