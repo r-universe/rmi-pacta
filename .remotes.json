@@ -8,6 +8,12 @@
   {
     "package": "pacta.data.validation",
     "url": "https://github.com/RMI-PACTA/pacta.data.validation",
+    "via": ["pacta.scenario.data.preparation"],
+    "from": "pacta.scenario.data.preparation"
+  },
+  {
+    "package": "pacta.data.validation",
+    "url": "https://github.com/RMI-PACTA/pacta.data.validation",
     "via": ["pactaverse"],
     "from": "pactaverse"
   },
