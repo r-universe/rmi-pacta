@@ -59,3 +59,6 @@
 [submodule "r2dii.plot"]
 	path = r2dii.plot
 	url = https://github.com/rmi-pacta/r2dii.plot
+[submodule "workflow.multi.loanbook"]
+	path = workflow.multi.loanbook
+	url = https://github.com/rmi-pacta/workflow.multi.loanbook
