@@ -30,6 +30,18 @@
     "from": "pactaverse"
   },
   {
+    "package": "pacta.multi.loanbook.analysis",
+    "url": "https://github.com/rmi-pacta/pacta.multi.loanbook.analysis",
+    "via": ["workflow.multi.loanbook"],
+    "from": "workflow.multi.loanbook"
+  },
+  {
+    "package": "pacta.multi.loanbook.plot",
+    "url": "https://github.com/rmi-pacta/pacta.multi.loanbook.plot",
+    "via": ["workflow.multi.loanbook"],
+    "from": "workflow.multi.loanbook"
+  },
+  {
     "package": "pacta.portfolio.allocate",
     "url": "https://github.com/RMI-PACTA/pacta.portfolio.allocate",
     "via": ["pactaverse"],
