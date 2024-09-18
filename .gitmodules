@@ -20,6 +20,9 @@
 [submodule "pacta.interactive.plot"]
 	path = pacta.interactive.plot
 	url = https://github.com/rmi-pacta/pacta.interactive.plot
+[submodule "pacta.multi.loanbook"]
+	path = pacta.multi.loanbook
+	url = https://github.com/rmi-pacta/pacta.multi.loanbook
 [submodule "pacta.multi.loanbook.plot"]
 	path = pacta.multi.loanbook.plot
 	url = https://github.com/rmi-pacta/pacta.multi.loanbook.plot
@@ -59,6 +62,3 @@
 [submodule "r2dii.plot"]
 	path = r2dii.plot
 	url = https://github.com/rmi-pacta/r2dii.plot
-[submodule "workflow.multi.loanbook"]
-	path = workflow.multi.loanbook
-	url = https://github.com/rmi-pacta/workflow.multi.loanbook
