@@ -1,5 +1,11 @@
 [
   {
+    "package": "pacta.data.preparation",
+    "url": "https://github.com/RMI-PACTA/pacta.data.preparation",
+    "via": ["pactaverse"],
+    "from": "pactaverse"
+  },
+  {
     "package": "pacta.data.scraping",
     "url": "https://github.com/RMI-PACTA/pacta.data.scraping",
     "via": ["pactaverse"],
@@ -75,6 +81,12 @@
     "package": "pacta.portfolio.utils",
     "url": "https://github.com/RMI-PACTA/pacta.portfolio.utils",
     "via": ["pactaverse", "pacta.portfolio.allocate"],
+    "from": "pactaverse"
+  },
+  {
+    "package": "pacta.scenario.data.preparation",
+    "url": "https://github.com/RMI-PACTA/pacta.scenario.data.preparation",
+    "via": ["pactaverse"],
     "from": "pactaverse"
   },
   {
