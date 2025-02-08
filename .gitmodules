@@ -17,6 +17,9 @@
 [submodule "pacta.interactive.plot"]
 	path = pacta.interactive.plot
 	url = https://github.com/rmi-pacta/pacta.interactive.plot
+[submodule "pacta.loanbook"]
+	path = pacta.loanbook
+	url = https://github.com/rmi-pacta/pacta.loanbook
 [submodule "pacta.multi.loanbook"]
 	path = pacta.multi.loanbook
 	url = https://github.com/rmi-pacta/pacta.multi.loanbook
