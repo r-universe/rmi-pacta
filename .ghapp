@@ -1,0 +1,10 @@
+{
+  "id": 72619559,
+  "created_at": "2025-06-23T09:24:31.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["r2dii.match", "r2dii.analysis", "r2dii.data", "pacta.interactive.plot", "r2dii.plot", "r2dii.colours", "pacta.executive.summary", "pacta.portfolio.import", "pacta.data.validation", "pacta.data.scraping", "pacta.portfolio.audit", "pacta.portfolio.utils", "pactaverse", "pacta.portfolio.allocate", "pacta.scenario.data.preparation", "pacta.portfolio.report", "pacta.multi.loanbook", "pacta.data.preparation", "pacta.loanbook"]
+}
